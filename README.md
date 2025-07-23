@@ -63,7 +63,6 @@ https://github.com/telzo2000/cool436tb/blob/main/buildguide_for_cool436tb.md
 |8|XIAO nRF52840 Plus|1|MCU Board|[seeed studio](https://www.seeedstudio.com/Seeed-Studio-XIAO-nRF52840-Plus-p-6359.html)<br>[スイッチサイエンス](https://www.switch-science.com/products/10468?srsltid=AfmBOop922ZEHWC7FqFZZKFmG-2YqUAAqYu5usYdPweG1f1-7KqjcMUV)|2139円|
 |9|Diode<br>ダイオード|36|SMD|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
 |10|Switch socket<br>スイッチソケット|36|choc|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
-
 |11|Tadpole |9||[Geon works](https://geon.works/products/tadpole)<br>[GREEN KEYS](https://shop.green-keys.info/products/tadpole)|14本６ドル（送料別）または８本1500円（送料別）|
 |12|磁石<br>magnet|12|直径6mm 厚さ2.5mm|[Amazon](https://www.amazon.co.jp/ネオジム磁石マグネット-厚さ3mm、直径6mm-100個-キッチン用品-お絵かきボード/dp/B0DBVDYWMZ?pd_rd_w=XFlUT&content-id=amzn1.sym.dda44ccf-639a-4efd-aff3-76822c86cb09&pf_rd_p=dda44ccf-639a-4efd-aff3-76822c86cb09&pf_rd_r=5HZ6E1FJKZPQSEBZ5BDH&pd_rd_wg=PHCbF&pd_rd_r=e9e131a8-a5d9-4404-851b-3d1f65d4a93f&pd_rd_i=B0DBVDYWMZ&psc=1&ref_=pd_bap_d_grid_rp_0_7_pr_t)|100個1000円程度|
 |13|Keyswitch<br>キースイッチ|36|chocV1及びV2対応|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
