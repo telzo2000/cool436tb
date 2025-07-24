@@ -64,7 +64,7 @@ Solder the switch socket to the back of the keyboard board.
 <br>
 次の動画を参考にしてハンダ付けをしてください。
 <br>
-[xiao ble plusのハンダ付け動画](https://youtu.be/98yqLjzfdl4)
+[xiao ble plusのハンダ付け動画](https://youtu.be/T4O7NxNUMdo?si=k7QdqWDq2rmBUDI5)
 
 
 
